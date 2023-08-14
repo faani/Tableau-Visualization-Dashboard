@@ -6,4 +6,4 @@
 # Top20 Countries per smart phone users
 
 
-# https://public.tableau.com/views/Top20RankingCountriesFA/Top20RankingCountries?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Top20RankingCountriesFA/Top20RankingCountries?:language=en-GB&:display_count=n&:origin=viz_share_link
