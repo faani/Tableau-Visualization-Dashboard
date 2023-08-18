@@ -1,4 +1,4 @@
-# Tableau Visualization with Dashboard Project
+# Tableau Visualization Dashboard
 
 # I have created a Top20 Ranking Countries Dashboard including 4 visualizations chart each describing the following below
 
