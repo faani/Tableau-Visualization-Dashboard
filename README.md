@@ -1,6 +1,6 @@
 # Tableau Visualization Dashboard
 
-# I have created a Top20 Ranking Countries Dashboard including 4 visualizations chart each describing the following below
+# I have created Top20 Ranking Countries Dashboard including 4 visualizations chart each describing the following below
 
 # Top20-Ranking-Countries Dashboard
 # Top20 Ranking Countries GDP per Capita
